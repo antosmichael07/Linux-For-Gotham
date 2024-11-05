@@ -1,7 +1,7 @@
 # Linux-For-Gotham
 
-### Compiling
+## Compiling
 
 `gcc main.c -o linux.exe -s`
 
-> use the `-mwindows` argument for hidden window
+> use the `-mwindows` argument for a hidden window
