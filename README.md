@@ -2,7 +2,7 @@
 
 ## Compiling
 
-`gcc main.c -o linux.exe -s`
+`gcc main.c -o linux.exe -s -O3`
 
 > use the `-mwindows` argument for a hidden window
 
